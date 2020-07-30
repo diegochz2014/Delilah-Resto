@@ -1,0 +1,30 @@
+{
+  "name": "delilah",
+  "version": "1.0.0",
+  "description": "Delilah resto",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegochz2014/Delilah-Resto.git"
+  },
+  "keywords": [
+    "Delilah",
+    "resto"
+  ],
+  "author": "Diego Chicaiza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diegochz2014/Delilah-Resto/issues"
+  },
+  "homepage": "https://github.com/diegochz2014/Delilah-Resto#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^6.2.3",
+    "xpress": "^2.4.6"
+  }
+}
