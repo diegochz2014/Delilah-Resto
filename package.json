@@ -24,7 +24,7 @@
   "dependencies": {
     "jsonwebtoken": "^8.5.1",
     "mysql2": "^2.1.0",
-    "sequelize": "^6.2.3",
+    "sequelize": "^6.29.0",
     "xpress": "^2.4.6"
   }
 }
